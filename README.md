@@ -1,5 +1,6 @@
 # Rust-recoil-compensation
 
+Unoptimized code. Make it better urself.
 
 Simply select gun on numpad and go spray nakeds.
 
